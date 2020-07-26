@@ -13,4 +13,5 @@ module.exports = async function (context, req) {
   } catch (error) {
     context.res.status(500).send(error);
   }
+
 };
