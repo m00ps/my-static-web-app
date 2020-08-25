@@ -6,22 +6,20 @@
   "debug.internalConsoleOptions": "neverOpen",
   "azureFunctions.preDeployTask": "npm prune",
   "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#92cbca",
-    "activityBar.activeBorder": "#b668b7",
-    "activityBar.background": "#92cbca",
+    "activityBar.activeBackground": "#6a89df",
+    "activityBar.activeBorder": "#9d2243",
+    "activityBar.background": "#6a89df",
     "activityBar.foreground": "#15202b",
     "activityBar.inactiveForeground": "#15202b99",
-    "activityBarBadge.background": "#b668b7",
-    "activityBarBadge.foreground": "#15202b",
-    "statusBar.background": "#70bab9",
-    "statusBar.border": "#70bab9",
-    "statusBar.foreground": "#15202b",
-    "statusBarItem.hoverBackground": "#50a7a5",
-    "titleBar.activeBackground": "#70bab9",
-    "titleBar.activeForeground": "#15202b",
-    "titleBar.border": "#70bab9",
-    "titleBar.inactiveBackground": "#70bab999",
-    "titleBar.inactiveForeground": "#15202b99"
+    "activityBarBadge.background": "#9d2243",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#4068d6",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#6a89df",
+    "titleBar.activeBackground": "#4068d6",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#4068d699",
+    "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#70bab9"
+  "peacock.color": "#4068d6"
 }
